@@ -1,9 +1,1 @@
-Madu
-20000.0
-3
-Habatusauda
-15000.0
-7
-Minyak Zaitun
-30000.0
-5
+
